@@ -5,7 +5,7 @@ A modern ChatGPT-style AI chatbot built with Flutter, powered by Google Gemini A
 ---
 
 ## 🚀 Live Demo
-👉 https://your-netlify-link.netlify.app
+👉 https://airi-assist.netlify.app/
 
 ---
 
